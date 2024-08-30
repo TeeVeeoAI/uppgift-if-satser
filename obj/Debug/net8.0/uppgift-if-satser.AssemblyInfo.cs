@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("uppgift-if-satser")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de0ade36f6e2b7613cb51227cb7cd25d4159fb72")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bfbea680b9539987571d9377edc4fdf32df7b62e")]
 [assembly: System.Reflection.AssemblyProductAttribute("uppgift-if-satser")]
 [assembly: System.Reflection.AssemblyTitleAttribute("uppgift-if-satser")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
