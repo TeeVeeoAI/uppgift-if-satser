@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\uppgift-if-satser\obj\Debug\net8.0\uppgift-if-satser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\uppgift-if-satser\obj\Debug\net8.0\uppgift-if-satser.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\uppgift-if-satser\obj\Debug\net8.0\uppgift-if-satser.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\uppgift-if-satser\obj\Debug\net8.0\uppgift-if-satser.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\uppgift-if-satser\bin\Debug\net8.0\uppgift-if-satser.exe
+C:\Users\Admin\Documents\GitHub\uppgift-if-satser\bin\Debug\net8.0\uppgift-if-satser.deps.json
+C:\Users\Admin\Documents\GitHub\uppgift-if-satser\bin\Debug\net8.0\uppgift-if-satser.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\uppgift-if-satser\bin\Debug\net8.0\uppgift-if-satser.dll
+C:\Users\Admin\Documents\GitHub\uppgift-if-satser\bin\Debug\net8.0\uppgift-if-satser.pdb
+C:\Users\Admin\Documents\GitHub\uppgift-if-satser\obj\Debug\net8.0\uppgift-if-satser.dll
+C:\Users\Admin\Documents\GitHub\uppgift-if-satser\obj\Debug\net8.0\refint\uppgift-if-satser.dll
+C:\Users\Admin\Documents\GitHub\uppgift-if-satser\obj\Debug\net8.0\uppgift-if-satser.pdb
+C:\Users\Admin\Documents\GitHub\uppgift-if-satser\obj\Debug\net8.0\uppgift-if-satser.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\uppgift-if-satser\obj\Debug\net8.0\ref\uppgift-if-satser.dll
